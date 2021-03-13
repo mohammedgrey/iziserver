@@ -23,6 +23,7 @@ app.use(
       process.env.NODE_ENV === 'development'
         ? 'http://localhost:3000'
         : 'https://izihandmade.netlify.app',
+      'https://izihandmade.web.app/',
     ],
   })
 );
