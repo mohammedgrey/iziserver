@@ -1,6 +1,6 @@
 Backend server of the izihandmade project. 
 It is built using NodeJS with Express and MongoDB. And Firebase for authentication.
-### dependencies and dev-dependencies:
+### Dependencies and dev-dependencies:
     * cloudinary
     * compression
     * cors
